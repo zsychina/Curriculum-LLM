@@ -14,6 +14,14 @@ Using automated curriculum learning to enhance LLM's RL training process.
 
 Same as [VeRL](https://github.com/volcengine/verl)
 
+## Relevant datasets
+
+[kk-difficulty](https://huggingface.co/datasets/siyuan-zhu/kk-difficulty)
+
+[gsm8k-doubao-lite-difficulties](https://huggingface.co/datasets/siyuan-zhu/gsm8k-doubao-lite-difficulties)
+
+[ORZ-MATH-57k-Filter-difficulty-decontaminated](https://huggingface.co/datasets/pe-nlp/ORZ-MATH-57k-Filter-difficulty-decontaminated)
+
 ## Citation
 
 [Dynamic Sampler](https://github.com/volcengine/verl/pull/631)
