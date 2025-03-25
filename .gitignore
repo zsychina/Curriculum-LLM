@@ -1,0 +1,9 @@
+*.log
+*.out
+*.ipynb
+# data/
+raw_data/
+wandb/
+__pycache__/
+outputs/
+# test_scripts/
